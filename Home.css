@@ -1,0 +1,10 @@
+.rounded-circle{
+    height: 500px;
+    transition: 0.5s;
+    
+}
+.rounded-circle:hover {
+    height: 520px;
+    transition: 0.5s;
+
+}
